@@ -1,0 +1,8 @@
+# Output files
+
+out/
+
+# IDE files
+
+*.iml
+.idea
